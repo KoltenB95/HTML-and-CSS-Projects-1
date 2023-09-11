@@ -1,0 +1,14 @@
+p {
+	color: snow;
+	background: black;
+	font-weight: bold;
+	text-align: left;
+	text-shadow: 2px 2px red;
+}
+p {
+		color: purple;
+		background-color: black;
+		font-weight: underline;
+		text-align: left;
+		text-shadow: 2px 2px red;
+}

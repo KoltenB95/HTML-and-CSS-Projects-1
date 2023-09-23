@@ -1,0 +1,24 @@
+p {
+    font-family: 10px;
+    font-size: 15px; 
+}
+
+.photo-container {
+    width: 200px;
+    margin: 15px;
+    border: 1px solid #2f4f4f;
+    border-radius: 8px;
+}
+
+.photo {
+    width: 250px;
+    margin: 10px;
+    border: 1px;
+    border-radius: 6px;
+}
+
+.photo-container img {
+    max-width: 100%;
+    width: 150px;
+    height: 69px;
+}

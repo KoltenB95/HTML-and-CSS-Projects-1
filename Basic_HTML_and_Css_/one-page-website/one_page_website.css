@@ -22,3 +22,17 @@ p {
     width: 150px;
     height: 69px;
 }
+
+.contact { 
+    max-width: 100%;
+    margin: 150px;
+    border-radius: 69px;
+}
+
+.rsvp {
+    max-width: 100%;
+    width: 150px;
+    margin: 69px;
+    border:1px;
+    border-radius: 69px;
+}
